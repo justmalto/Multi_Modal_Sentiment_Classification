@@ -1,0 +1,2 @@
+IMDB:https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+Sentiment140-Twiiter:https://www.kaggle.com/datasets/kazanova/sentiment140
